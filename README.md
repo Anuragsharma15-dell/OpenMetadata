@@ -118,9 +118,6 @@ A HUGE THANK YOU to all our supporters!
 </a>
  
 
-## License
-OpenMetadata is released under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
- 
   <img src="https://contrib.rocks/image?repo=open-metadata/OpenMetadata&max=4000&columns=30" />
 </a>
 
