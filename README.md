@@ -1,5 +1,4 @@
-Readme · MD
-Copy
+
 
 <br /><br />
 <p align="center">
@@ -118,10 +117,7 @@ A HUGE THANK YOU to all our supporters!
   <img src="https://contrib.rocks/image?repo=open-metadata/OpenMetadata&max=4000&columns=30" />
 </a>
  
-## Stargazers
- 
-[![Stargazers of @open-metadata/OpenMetadata repo](http://reporoster.com/stars/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata/stargazers)
- 
+
 ## License
 OpenMetadata is released under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  
